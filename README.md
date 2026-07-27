@@ -92,13 +92,3 @@ Through this project, the following concepts were implemented:
 
 This project demonstrates how Python-based visualization tools can be used to create an interactive business dashboard. It provides valuable insights into sales performance through intuitive charts and KPIs, making it an effective solution for data analysis and decision-making.
 
-
-## Author
-
-**Name:** Hima Bindu
-
-**Internship:** ApexPlanet Software Pvt. Ltd.
-
-**Task:** Task 5 – Interactive Sales Dashboard
-
-**Tools & Technologies:** Python, Pandas, Dash, Plotly Express
